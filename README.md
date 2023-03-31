@@ -108,5 +108,5 @@ These are all the tasks of this project, the ones that are completed link to the
 ---
 
 ### Authors
-* **ADEBOLA ABDULRAHMAN** - [mailto:adebolajunior050@gmail.com](https://github.com/DeBoy01)
-* **ABU FATIN** - [mailto:abufatin13@gmail.com](https://github.com/arafFatin)
+* **ADEBOLA ABDULRAHMAN** - [adebolajunior050@gmail.com](https://github.com/DeBoy01)
+* **ABU FATIN** - [abufatin13@gmail.com](https://github.com/arafFatin)
