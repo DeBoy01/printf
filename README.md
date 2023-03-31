@@ -1,4 +1,3 @@
-[Secrets_of_printf.pdf](https://github.com/Lordwill1/printf/files/10059782/Secrets_of_printf.pdf)
 # printf Project
 
 ## Description
